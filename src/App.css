@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  display: flex;
+}
+
+.menues {
+  margin-left: auto;
+  margin-right: 30px;
+  margin-top: 30px;
+  padding: 10px;
+  background-color: cornflowerblue;
+}
+
+.unvisible {
+  display: none;
+}
